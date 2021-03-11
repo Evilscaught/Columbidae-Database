@@ -76,4 +76,4 @@ You can now view all the tables and make changes to them using the available pro
 ![Release](https://img.shields.io/static/v1?label=Composer&message=v2.0.11&color=625238)
 
 ## Database Schematic:
-[<img src="exhibition/schematic.png" alt="Database Schematic">](exhibition/home.png)
+[<img src="exhibition/schematic.png" alt="Database Schematic">](exhibition/schematic.png)
