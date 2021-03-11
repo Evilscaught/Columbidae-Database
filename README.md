@@ -30,7 +30,7 @@ Import has been successfully finished, 157 queries executed. (columbidae.sql)
 
 ## Configuring the Environment Variables:
 
-1. In order to use environment variables (and make the database accessible to the front-end) you'll need to download and install [Composer](#, "https://getcomposer.org/download/") if you haven't already.  
+1. In order to use environment variables (and make the database accessible to the front-end) you'll need to download and install [Composer](https://getcomposer.org/download/) if you haven't already.  
 
 The following configuration was used during composer installation:   
 - Install for all users
