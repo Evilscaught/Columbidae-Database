@@ -52,7 +52,7 @@
 
         <div class="left_side_bar back_nav"> 
           <div class="col_1">
-            <h1><a href="../home.php">Home</a></h1>
+            <h1><a href="../index.php">Home</a></h1>
           </div>
         </div>
 
