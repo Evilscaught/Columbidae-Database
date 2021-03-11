@@ -1,7 +1,7 @@
 # A demonstrative database built using MySQL and PHP
 
 [<img src="exhibition/home.png" alt="Home Page Render">](exhibition/home.png)
-<br>
+---
 [<img src="exhibition/conservation.png" alt="Home Page Render">](exhibition/conservation.png)
 
 # Setting up the Development Environment
@@ -61,7 +61,10 @@ DB_PORT=3308
 
 You can now view all the tables and make changes to them using the available prodecures on the home page!  If you wish to reset the database, you'll have to re-import it (see step 10 in [Setting up the MySQL database](#,""))
 
-## Additional information:
+# Additional information
+
+## Software Versions Used:
+
 ![Release](https://img.shields.io/static/v1?label=WampServer&message=3.2.3.3_64-bit&color=ff009a)
 <br>
 ![Release](https://img.shields.io/static/v1?label=PHP_CLI&message=5.6.40&color=4f5b93)
@@ -71,3 +74,6 @@ You can now view all the tables and make changes to them using the available pro
 ![Release](https://img.shields.io/static/v1?label=MySQL&message=5.7.31&color=4479a1)
 <br>
 ![Release](https://img.shields.io/static/v1?label=Composer&message=v2.0.11&color=625238)
+
+## Database Schematic:
+[<img src="exhibition/schematic.png" alt="Database Schematic">](exhibition/home.png)
