@@ -97,7 +97,7 @@
 
     <div class="clear"></div>
     
-    <div id="footer">
+    <div id="footer">Copyright &copy; 2020. Page Designed by <a href="http://www.htmltemplates.net" target="_blank">htmltemplates.net</a><br>  
 
     </div>
 	
